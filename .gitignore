@@ -10,3 +10,4 @@ nbproject/
 *.class
 dist/
 
+gradle.properties
