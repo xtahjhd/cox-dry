@@ -70,7 +70,7 @@ import okhttp3.Response;
 		name = "CoX Dry Calculator",
 		description = "Tracks Chambers of Xeric raids and personal points since your last purple",
 		tags = {"cox", "chambers", "xeric", "raids", "purple", "dry", "unique", "points", "cm"},
-		internalName = "cox-dry-calc"
+		internalName = "cox-dry"
 )
 public class CoxDryCalcPlugin extends Plugin
 {
